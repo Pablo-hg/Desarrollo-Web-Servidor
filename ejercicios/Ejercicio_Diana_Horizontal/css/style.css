@@ -1,0 +1,17 @@
+/*
+el input que se llame diana
+ */
+input[name=diana]{
+    width: 50%;
+    margin: 0 25%;
+}
+
+.rojo{
+    color : red;
+}
+.naranja{
+    color : orange;
+}
+.verde{
+    color : green;
+}

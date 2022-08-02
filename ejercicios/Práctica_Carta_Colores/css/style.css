@@ -1,0 +1,151 @@
+
+/* Cambiamos las caracteristicas de la tabla(todo el contenido) */
+.tabla{
+    border: 2px solid #aea4ee;
+    width: 445px;
+    margin-left: 425px;
+    background-color: #f6f6f6;
+    height: 490px;
+    border-left-color: #7badd6;
+    border-top-color: #7badd6;
+    border-right-color: #a79de7;
+    font-family: sans-serif;
+    color: #56567c;
+}
+
+/* Cambiamos las caracteristicas del titulo */
+h2{
+    padding-left: 20px;
+}
+
+/* Cambiamos las caracteristicas del texto para cambiar lso valores*/
+h5{
+    margin-top: 0px;
+}
+
+/* Cambiamos las caracteristicas de la seccion izquierda(cuadrado grande) */
+.izquierda{
+    float: left;
+    width: 285px;
+}
+
+/* Cambiamos las caracteristicas de la seccion abajo(triangulo del medio) */
+.medio{
+    float: left;
+    padding-top: 40px;
+    padding-left: 5px;
+}
+
+/* Cambiamos las caracteristicas de la seccion derecha(cuadrado con los inputs y el range) */
+.derecha{
+    float: right;
+    margin-right: 20px;
+    font-size: x-small;
+}
+
+/* Cambiamos las caracteristicas de la seccion abajo(triangulo de abajo) */
+.abajo{
+    float: left;
+    margin-top: 10px;
+    padding-left: 115px;
+    margin-left: 20px;
+}
+
+/* Cambiamos las caracteristicas de la seccion pie(los botones) */
+.pie{
+    float: left;
+    margin-left: 18px;
+}
+
+/* Cambiamos las caracteristicas del cuadrado grande */
+.Cgrande{
+    border: 2px solid transparent;
+    margin-left: 20px;
+    width: 250px;
+    height: 250px;
+    cursor: crosshair;
+}
+
+/* Cambiamos las caracteristicas del cuadrado pequeño */
+.Cpequeño{
+    border: 2px solid green;
+    width: 100px;
+    height: 100px;
+}
+
+/* Cambiamos las caracteristicas de los trinagulos separadores  */
+.triangulo1{
+    border-left: 15px solid #d1d1d1;
+    border-top: 7.5px solid transparent;
+    border-bottom: 7.5px solid transparent;
+    float: left;
+}
+.triangulo2{
+    border-left: 7.5px solid transparent;
+    border-right: 7.5px solid transparent;
+    border-bottom: 15px solid #d1d1d1;
+    float: right;
+}
+
+/* Cambiamos las caracteristicas del cuadrado selector  */
+.selector{
+    width: 260px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 18px;
+    border: none;
+    padding: 0;
+    background: linear-gradient(to right, rgb(255,0,0), orange,  yellow,
+    rgb(0,255,0),cyan,rgb(0,0,255),purple,#ff00d6,red);
+    cursor: crosshair;
+
+}
+
+/* Cambiamos las caracteristicas de los botonesl*/
+.boton{
+    background-color: #c5c5c5;
+    margin-top: 20px;
+    width: 128px;
+    height: 30px;
+    border: none;
+}
+
+/* Cambiamos las caracteristicas de los botones al pasar el raton por encima*/
+.boton:hover{
+    border: 2px solid #969696;
+}
+
+/* Cambiamos las caracteristicas del input del hexadecimal*/
+.cajita{
+    height: 25px;
+    text-align: right;
+    border: 2px solid #d4d9e2;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+/* Cambiamos las caracteristicas del los inputs de los colores */
+.rgb{
+    height: 25px;
+    width: 95px;
+    text-align: right;
+    border: 2px solid #d4d9e2;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+/* Cambiamos las caracteristicas del input range */
+input[type='range']{
+    margin-top: 5px;
+    width: 100px;
+}
+
+
+
+
+
+
+
+
+
