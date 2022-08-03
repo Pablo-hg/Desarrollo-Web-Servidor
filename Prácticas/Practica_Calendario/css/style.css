@@ -1,0 +1,34 @@
+h1{
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+table{
+     border: 1px solid #b66468;
+     margin: 5px;
+     float: left;
+     border-collapse: collapse;
+}
+caption{
+    background-color: #b66468;
+    color: white;
+    padding: 10px 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+th{
+    background-color: #eeeeee;
+    padding: 8px 5px;
+}
+html{
+    width: 70%;
+    font-family: Arial;
+}
+td {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    background-color: white;
+}
+
+
